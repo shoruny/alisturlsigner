@@ -2,7 +2,7 @@
     "name": "hercules/alist-url-signer",
     "description": "php生成alist分享URL",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
