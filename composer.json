@@ -1,0 +1,22 @@
+{
+    "name": "hercules/alist-url-signer",
+    "description": "php生成alist分享URL",
+    "type": "library",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Hercules\\AlistURLSigner\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "抗麦郎",
+            "email": "104018826+shoruny@users.noreply.github.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    }
+}
